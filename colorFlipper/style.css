@@ -1,0 +1,28 @@
+nav {
+  height: 50px;
+  width: 100%;
+  padding: 10px;
+  background-color: aqua;
+}
+nav .nav_center {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+nav .nav_center ul {
+  display: flex;
+  gap: 20px;
+}
+nav .nav_center ul li {
+  list-style: none;
+  font-size: 20px;
+}
+nav .nav_center h4 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}/*# sourceMappingURL=style.css.map */
