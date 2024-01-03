@@ -1,7 +1,7 @@
 .box{
     width: 20px;
     height: 20px;
-  background-color: rgb(41, 105, 105);
+  /* background-color: rgb(41, 105, 105); */
   margin: 50px;
   border-radius: 2px;
 }
@@ -11,5 +11,10 @@
     justify-content: space-around;
     align-items: center;
     align-content: center;
+}
+
+h1{
+    font-size: 50px;
+    color: rgb(84, 231, 145)
 }
 
