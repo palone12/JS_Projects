@@ -1,0 +1,15 @@
+.box{
+    width: 20px;
+    height: 20px;
+  background-color: rgb(41, 105, 105);
+  margin: 50px;
+  border-radius: 2px;
+}
+
+.robots{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+
